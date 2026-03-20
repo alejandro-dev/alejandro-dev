@@ -93,3 +93,15 @@ Full Stack Developer
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-dev&layout=compact&theme=dark"/>
 
 </p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-dev&theme=github-dark"/>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/alejandro-dev/alejandro-dev/blob/output/github-contribution-grid-snake.svg)
