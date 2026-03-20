@@ -104,4 +104,4 @@ Full Stack Developer
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/alejandro-dev/alejandro-dev/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/alejandro-dev/alejandro-dev/output/github-contribution-grid-snake.svg)
